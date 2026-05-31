@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hola, soy Jesús Burgos 👋
 
-<!--
-**JesusDBurgos/JesusDBurgos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer | Python | FastAPI | Django
 
-Here are some ideas to get you started:
+Soy un desarrollador de software enfocado en construir APIs robustas, diseñar bases de datos relacionales y resolver problemas complejos con código limpio. Tengo experiencia previa en análisis algorítmico y actualmente estoy 100% enfocado en el ecosistema **Python**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Actualmente construyendo:** Una API REST con FastAPI para digitalizar el registro de ventas de campo (Autenticación JWT, SQLite/PostgreSQL).
+- 🌱 **Stack principal:** Python, FastAPI, Django REST Framework, SQL.
+- 💼 **Buscando oportunidades como:** Backend Developer Junior / Mid.
+- 📫 **Conéctate conmigo:** [LinkedIn](https://www.linkedin.com/in/jesus-burgos/)
+
+---
+
+### 🛠️ Tech Stack & Herramientas
+
+* **Lenguajes:** Python, SQL, C# (Básico)
+* **Frameworks:** FastAPI, Django, Django REST Framework
+* **Bases de Datos:** PostgreSQL, MySQL, SQLite
+* **Arquitectura & Herramientas:** APIs RESTful, Git, GitHub, Postman, JWT
+
+---
+
+<p align="left">
+  <a href="https://github.com/tu-usuario-de-github">
+    <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario-de-github&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  </a>
+</p>
