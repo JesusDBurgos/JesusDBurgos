@@ -44,6 +44,6 @@ Soy un desarrollador de software enfocado en construir APIs robustas, diseñar b
 
 <p align="left">
   <a href="https://github.com/tu-usuario-de-github">
-    <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario-de-github&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JesusDBurgos&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
   </a>
 </p>
